@@ -1,4 +1,4 @@
-package com.test.jaava;
+package com.test.java;
 
 public class Sorting {
 

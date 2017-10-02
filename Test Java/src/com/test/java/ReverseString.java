@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.test.jaava;
+package com.test.java;
 
 /**
  * @author Dell
